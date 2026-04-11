@@ -1,33 +1,33 @@
-# 🚀 Python for DSA – Basics
+🚀 Python for DSA – Basics
 
 This repository documents my journey of learning **Data Structures & Algorithms (DSA)** using Python.
 Currently focusing on building strong fundamentals using conditions and loops.
 
 ---
 
-## 📌 Topics Covered
+📌 Topics Covered
 
-### ✅ If-Else Statements
+ ✅ If-Else Statements
 
-* Conditional logic
-* Even / Odd checking
-* Range-based conditions
-* Decision-making in programs
+- Conditional logic
+- Even / Odd checking
+- Range-based conditions
+- Decision-making in programs
 
 ---
 
-### 🔁 Loops
+🔁 Loops
 
-#### 🟢 While Loop
+🟢 While Loop
 
-* Used when the number of iterations is unknown
-* Example problems:
+- Used when the number of iterations is unknown
+- Example problems:
 
   * Sum of digits
   * Armstrong number
   * Palindrome number
 
-#### 🔵 For Loop
+ 🔵 For Loop
 
 * Used when iterations are known
 * Example problems:
@@ -37,14 +37,14 @@ Currently focusing on building strong fundamentals using conditions and loops.
 
 ---
 
-## 📂 Files
+ 📂 Files
 
 * `if_else.py` → If-Else practice
 * `loops.py` → Loop-based problems (numbers, arrays)
 
 ---
 
-## 🧠 Concepts Practiced
+ 🧠 Concepts Practiced
 
 * Iteration using `while` and `for`
 * Mathematical operations (`%`, `//`, `**`)
@@ -53,7 +53,7 @@ Currently focusing on building strong fundamentals using conditions and loops.
 
 ---
 
-## 🎯 Practice Problems Included
+ 🎯 Practice Problems Included
 
 * ✅ Sum of digits of a number
 * ✅ Armstrong number check
@@ -63,7 +63,7 @@ Currently focusing on building strong fundamentals using conditions and loops.
 
 ---
 
-## 🎯 Purpose
+ 🎯 Purpose
 
 * Build strong programming fundamentals
 * Start DSA preparation step by step
@@ -72,20 +72,10 @@ Currently focusing on building strong fundamentals using conditions and loops.
 
 ---
 
-## 🧠 What I’m Learning Next
+🧠 What I’m Learning Next
 
 * Functions
 * Arrays & Strings
 * Basic DSA problems
 
 ---
-
-## ⚡ Note
-
-This repository is part of my **daily learning practice**, so it will be updated regularly as I improve.
-
----
-
-## 👨‍💻 Author
-
-**Rohith R**
