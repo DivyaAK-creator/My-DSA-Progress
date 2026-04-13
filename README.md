@@ -1,81 +1,87 @@
-🚀 Python for DSA – Basics
+# 🚀 Python for DSA – Basics
 
 This repository documents my journey of learning **Data Structures & Algorithms (DSA)** using Python.
-Currently focusing on building strong fundamentals using conditions and loops.
+Currently, I am focusing on building strong fundamentals through conditions and loops.
 
 ---
 
-📌 Topics Covered
+## 📌 Topics Covered
 
- ✅ If-Else Statements
+### ✅ If-Else Statements
 
-- Conditional logic
-- Even / Odd checking
-- Range-based conditions
-- Decision-making in programs
-
----
-
-🔁 Loops
-
-🟢 While Loop
-
-- Used when the number of iterations is unknown
-- Example problems:
-
-  * Sum of digits
-  * Armstrong number
-  * Palindrome number
-
- 🔵 For Loop
-
-* Used when iterations are known
-* Example problems:
-
-  * Prime number check
-  * Counting elements in a list
+* Understanding conditional logic
+* Even / Odd number checking
+* Range-based conditions
+* Decision-making in programs
 
 ---
 
- 📂 Files
+## 🔁 Loops
 
-* `if_else.py` → If-Else practice
-* `loops.py` → Loop-based problems (numbers, arrays)
+### 🟢 While Loop
+
+Used when the number of iterations is unknown.
+
+**Practice Problems:**
+
+* Sum of digits of a number
+* Armstrong number check
+* Palindrome number check
 
 ---
 
- 🧠 Concepts Practiced
+### 🔵 For Loop
 
-* Iteration using `while` and `for`
+Used when the number of iterations is known.
+
+**Practice Problems:**
+
+* Prime number check *(optimized using √n)*
+* Counting elements in a list
+
+---
+
+## 📂 Files
+
+* `if_else.py` → Practice with conditional statements
+* `loops.py` → Loop-based problems (numbers & arrays)
+
+---
+
+## 🧠 Concepts Practiced
+
+* Iteration using `while` and `for` loops
 * Mathematical operations (`%`, `//`, `**`)
-* Breaking loops (`break`)
-* Logic building with conditions
+* Loop control statements (`break`)
+* Building logic using conditions
 
 ---
 
- 🎯 Practice Problems Included
+## 🎯 Practice Problems
 
 * ✅ Sum of digits of a number
 * ✅ Armstrong number check
 * ✅ Palindrome number check
-* ✅ Prime number check (optimized using √n)
-* ✅ Count numbers greater than a value in a list
+* ✅ Prime number check *(√n optimization)*
+* ✅ Count numbers greater than a given value in a list
 
 ---
 
- 🎯 Purpose
+## 🎯 Purpose
 
 * Build strong programming fundamentals
 * Start DSA preparation step by step
 * Improve logical thinking
-* Maintain daily coding consistency
+* Maintain consistency through daily coding
 
 ---
 
-🧠 What I’m Learning Next
+## 🧠 What I’m Learning Next
 
 * Functions
 * Arrays & Strings
 * Basic DSA problems
 
 ---
+
+✨ *Consistent practice + strong fundamentals = success in DSA*
