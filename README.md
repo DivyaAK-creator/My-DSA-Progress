@@ -76,12 +76,5 @@ Used when the number of iterations is known.
 
 ---
 
-## 🧠 What I’m Learning Next
-
-* Functions
-* Arrays & Strings
-* Basic DSA problems
-
----
 
 ✨ *Consistent practice + strong fundamentals = success in DSA*
