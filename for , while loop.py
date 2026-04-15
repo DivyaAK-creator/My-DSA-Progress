@@ -1,3 +1,4 @@
+#sum
 n=1234
 total = 0
 while n>0:
@@ -7,6 +8,7 @@ while n>0:
 
 print(total)
 
+#Armstrong
 n = 123
 original = n
 total = 0
