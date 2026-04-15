@@ -123,3 +123,25 @@ for num in arr:
     if num > max_val:
         max_val = num
         print(max_val)
+
+#counting pattern
+arr = [5,12,17,3,9,21]
+count=0
+for num in arr:
+    if num  > 10:
+        count+=1
+
+print(count)
+
+#condition pattern : print numbers divided by 3 and 5
+arr = [3,5,15,20,30,7]
+
+for num in arr:
+    digit = num%10
+    if num%5==0:
+        print(num)
+    elif num%3==0:
+        print(num)
+
+
+        
