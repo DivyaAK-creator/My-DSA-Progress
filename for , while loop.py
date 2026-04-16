@@ -143,5 +143,28 @@ for num in arr:
     elif num%3==0:
         print(num)
 
+#In max/min 2nd small num 
+arr = [4,2,2,8,1,1]
+min1 = float('+inf')
+min2 = float('+inf')
+for num in arr:
+    if num<min1:
+        min2=min1
+        min1=num
+    elif num<min2 and num != min1:
+        min2 = num
 
-        
+print(min2)
+
+arr = [4,2,2,8,1,1]
+max1 = float('-inf')
+max2 = float('-inf')
+for num in arr:
+    if num>max1:
+        max2=max1
+        max1=num
+    elif num>max2 and num != max1:
+        max2 = num
+
+print(max2)
+
