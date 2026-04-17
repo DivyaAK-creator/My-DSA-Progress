@@ -1,13 +1,13 @@
-# 🚀 Python for DSA – Basics
+# Python for DSA – Basics
 
 This repository documents my journey of learning **Data Structures & Algorithms (DSA)** using Python.
 Currently, I am focusing on building strong fundamentals through conditions and loops.
 
 ---
 
-## 📌 Topics Covered
+## Topics Covered
 
-### ✅ If-Else Statements
+###  If-Else Statements
 
 * Understanding conditional logic
 * Even / Odd number checking
@@ -16,9 +16,9 @@ Currently, I am focusing on building strong fundamentals through conditions and 
 
 ---
 
-## 🔁 Loops
+## Loops
 
-### 🟢 While Loop
+### While Loop
 
 Used when the number of iterations is unknown.
 
@@ -30,7 +30,7 @@ Used when the number of iterations is unknown.
 
 ---
 
-### 🔵 For Loop
+### For Loop
 
 Used when the number of iterations is known.
 
@@ -41,14 +41,14 @@ Used when the number of iterations is known.
 
 ---
 
-## 📂 Files
+## Files
 
 * `if_else.py` → Practice with conditional statements
 * `loops.py` → Loop-based problems (numbers & arrays)
 
 ---
 
-## 🧠 Concepts Practiced
+## Concepts Practiced
 
 * Iteration using `while` and `for` loops
 * Mathematical operations (`%`, `//`, `**`)
@@ -57,17 +57,18 @@ Used when the number of iterations is known.
 
 ---
 
-## 🎯 Practice Problems
+## Practice Problems
 
-* ✅ Sum of digits of a number
-* ✅ Armstrong number check
-* ✅ Palindrome number check
-* ✅ Prime number check *(√n optimization)*
-* ✅ Count numbers greater than a given value in a list
+* Sum of digits of a number
+* Armstrong number check
+* Palindrome number check
+* Prime number check *(√n optimization)*
+* Count numbers greater than a given value in a list
+* Maximum and minimum 
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 * Build strong programming fundamentals
 * Start DSA preparation step by step
