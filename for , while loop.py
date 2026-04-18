@@ -165,6 +165,18 @@ for num in arr:
         max1=num
     elif num>max2 and num != max1:
         max2 = num
-
 print(max2)
 
+#reverse
+# string
+s = "Divya"
+rev = ()
+for letters in s:
+    rev = s[ ::-1]
+print(rev)
+
+#numbers
+arr = [10,20,30,40]
+for i in range(len(arr)-1,-1,-1):
+    print(arr[i],end =" ")
+    
