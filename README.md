@@ -3,7 +3,7 @@
 This repository documents my journey of learning **Data Structures & Algorithms (DSA)** using Python.
 Currently, I am focusing on building strong fundamentals through conditions and loops.
 
----
+----
 
 ## Topics Covered
 
@@ -14,7 +14,7 @@ Currently, I am focusing on building strong fundamentals through conditions and 
 * Range-based conditions
 * Decision-making in programs
 
----
+----
 
 ## Loops
 
@@ -28,7 +28,7 @@ Used when the number of iterations is unknown.
 * Armstrong number check
 * Palindrome number check
 
----
+----
 
 ### For Loop
 
@@ -39,14 +39,14 @@ Used when the number of iterations is known.
 * Prime number check *(optimized using √n)*
 * Counting elements in a list
 
----
+----
 
 ## Files
 
 * `if_else.py` → Practice with conditional statements
 * `loops.py` → Loop-based problems (numbers & arrays)
 
----
+----
 
 ## Concepts Practiced
 
@@ -55,7 +55,7 @@ Used when the number of iterations is known.
 * Loop control statements (`break`)
 * Building logic using conditions
 
----
+----
 
 ## Practice Problems
 
@@ -66,7 +66,7 @@ Used when the number of iterations is known.
 * Count numbers greater than a given value in a list
 * Maximum and minimum 
 
----
+----
 
 ## Purpose
 
@@ -75,7 +75,7 @@ Used when the number of iterations is known.
 * Improve logical thinking
 * Maintain consistency through daily coding
 
----
+----
 
 
 ✨ *Consistent practice + strong fundamentals = success in DSA*
