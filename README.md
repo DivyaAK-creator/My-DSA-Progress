@@ -39,7 +39,7 @@ Used when the number of iterations is known.
 * Prime number check *(optimized using √n)*
 * Counting elements in a list
 
------
+--------
 
 ## Files
 
