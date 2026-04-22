@@ -3,7 +3,7 @@
 This repository documents my journey of learning **Data Structures & Algorithms (DSA)** using Python.
 Currently, I am focusing on building strong fundamentals through conditions and loops.
 
------
+-------
 
 ## Topics Covered
 
@@ -14,7 +14,7 @@ Currently, I am focusing on building strong fundamentals through conditions and 
 * Range-based conditions
 * Decision-making in programs
 
------
+--------
 
 ## Loops
 
@@ -28,7 +28,7 @@ Used when the number of iterations is unknown.
 * Armstrong number check
 * Palindrome number check
 
------
+-------
 
 ### For Loop
 
