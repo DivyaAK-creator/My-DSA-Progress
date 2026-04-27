@@ -1,27 +1,27 @@
 # 🚀 Python for DSA – Foundations
 
-Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python 🐍
-This repository focuses on building **strong fundamentals** through core programming concepts like **conditions and loops**.
+Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python 🐍.
+This repository focuses on building **strong fundamentals** through core programming concepts like **conditional statements and loops**.
 
-------
+---
 
 ## 📚 What I’m Learning
 
-### 🔹 Conditional Statements (If-Else)
+### 🔹 Conditional Statements (if-else)
 
 Understanding how programs make decisions:
 
-* ✔️ Even / Odd number checking
+* ✔️ Even/Odd number checking
 * ✔️ Range-based conditions
-* ✔️ Logical branching & decision-making
+* ✔️ Logical branching and decision-making
 
------
+---
 
 ### 🔁 Loops
 
 #### 🟡 While Loop
 
-Used when the number of iterations is **unknown**
+Used when the number of iterations is **unknown**.
 
 **Practice Problems:**
 
@@ -33,7 +33,7 @@ Used when the number of iterations is **unknown**
 
 #### 🔵 For Loop
 
-Used when the number of iterations is **known**
+Used when the number of iterations is **known**.
 
 **Practice Problems:**
 
@@ -44,9 +44,9 @@ Used when the number of iterations is **known**
 
 ## 📂 Project Structure
 
-📁 Python-DSA-Basics
-┣ 📄 if_else.py   → Conditional statements practice
-┣ 📄 loops.py     → Loop-based problems (numbers & arrays)
+📁 **Python-DSA-Basics**
+┣ 📄 `if_else.py` → Conditional statements practice
+┣ 📄 `loops.py` → Loop-based problems (numbers & arrays)
 
 ---
 
@@ -66,16 +66,16 @@ Used when the number of iterations is **known**
 * ✅ Palindrome check
 * ✅ Prime number *(√n optimization)*
 * ✅ Count elements greater than a value
-* ✅ Find maximum & minimum
+* ✅ Find maximum and minimum
 
 ---
 
-## 🎯 Goal
+## 🎯 Goals
 
 * Build **strong programming fundamentals**
-* Start DSA preparation step-by-step
-* Improve **problem-solving & logical thinking**
-* Stay **consistent with daily coding practice**
+* Begin DSA preparation step-by-step
+* Improve **problem-solving and logical thinking**
+* Maintain **consistent daily coding practice**
 
 ---
 
