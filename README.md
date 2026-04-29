@@ -1,7 +1,7 @@
 # 🚀 Python for DSA – Foundations
 
 Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python 🐍.
-This repository is focused on building **strong fundamentals** through essential programming concepts like **conditional statements and loops**.
+
 
 ---
 
