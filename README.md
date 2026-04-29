@@ -1,15 +1,15 @@
 # 🚀 Python for DSA – Foundations
 
-Welcome  to my journey of mastering **Data Structures & Algorithms (DSA)** using Python 🐍.
-This repository focuses on building **strong fundamentals** through core programming concepts like **conditional statements and loops**.
+Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python 🐍.
+This repository is focused on building **strong fundamentals** through essential programming concepts like **conditional statements and loops**.
 
-------
+---
 
 ## 📚 What I’m Learning
 
 ### 🔹 Conditional Statements (if-else)
 
-Understanding how programs make decisions:
+Learning how programs make decisions through logical conditions:
 
 * ✔️ Even/Odd number checking
 * ✔️ Range-based conditions
@@ -45,7 +45,7 @@ Used when the number of iterations is **known**.
 ## 📂 Project Structure
 
 📁 **Python-DSA-Basics**
-┣ 📄 `if_else.py` → Conditional statements practice
+┣ 📄 `if_else.py` → Practice for conditional statements
 ┣ 📄 `loops.py` → Loop-based problems (numbers & arrays)
 
 ---
@@ -73,7 +73,7 @@ Used when the number of iterations is **known**.
 ## 🎯 Goals
 
 * Build **strong programming fundamentals**
-* Begin DSA preparation step-by-step
+* Start DSA preparation step-by-step
 * Improve **problem-solving and logical thinking**
 * Maintain **consistent daily coding practice**
 
