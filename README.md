@@ -1,9 +1,10 @@
 # 🚀 Python for DSA – Foundations
 
-Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python 🐍.
+Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python form
+🐍.
 
 
----
+-----------------
 
 ## 📚 What I’m Learning
 
