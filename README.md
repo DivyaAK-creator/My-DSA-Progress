@@ -1,73 +1,72 @@
-# 🚀 Python for DSA – Foundations
+# Python for DSA – Foundations
 
-Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python form
-🐍.
+Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python form.
 
 
 -----------------
 
-## 📚 What I’m Learning
+##  What I’m Learning
 
-### 🔹 Conditional Statements (if-else)
+###  Conditional Statements (if-else)
 
 Learning how programs make decisions through logical conditions:
 
-* ✔️ Even/Odd number checking
-* ✔️ Range-based conditions
-* ✔️ Logical branching and decision-making
+* Even/Odd number checking
+* Range-based conditions
+* Logical branching and decision-making
 
 ---
 
-### 🔁 Loops
+### Loops
 
-#### 🟡 While Loop
+####  While Loop
 
 Used when the number of iterations is **unknown**.
 
 **Practice Problems:**
 
-* 🔸 Sum of digits of a number
-* 🔸 Armstrong number check
-* 🔸 Palindrome number check
+*  Sum of digits of a number
+*  Armstrong number check
+*  Palindrome number check
 
 ---
 
-#### 🔵 For Loop
+####  For Loop
 
 Used when the number of iterations is **known**.
 
 **Practice Problems:**
 
-* 🔹 Prime number check *(optimized using √n)*
-* 🔹 Counting elements in a list
+*  Prime number check *(optimized using √n)*
+*  Counting elements in a list
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
-📁 **Python-DSA-Basics**
-┣ 📄 `if_else.py` → Practice for conditional statements
-┣ 📄 `loops.py` → Loop-based problems (numbers & arrays)
-
----
-
-## 🧠 Concepts Strengthened
-
-* 🔁 Iteration using `while` and `for` loops
-* 🧮 Mathematical operations (`%`, `//`, `**`)
-* ⛔ Loop control (`break`)
-* 🧩 Logical problem-solving using conditions
+ **Python-DSA-Basics**
+ `if_else.py` → Practice for conditional statements
+ `loops.py` → Loop-based problems (numbers & arrays)
 
 ---
 
-## 🏋️ Practice Problems
+##  Concepts Strengthened
 
-* ✅ Sum of digits
-* ✅ Armstrong number
-* ✅ Palindrome check
-* ✅ Prime number *(√n optimization)*
-* ✅ Count elements greater than a value
-* ✅ Find maximum and minimum
+*  Iteration using `while` and `for` loops
+*  Mathematical operations (`%`, `//`, `**`)
+*  Loop control (`break`)
+*  Logical problem-solving using conditions
+
+---
+
+##  Practice Problems
+
+*  Sum of digits
+*  Armstrong number
+*  Palindrome check
+*  Prime number *(√n optimization)*
+*  Count elements greater than a value
+*  Find maximum and minimum
 
 ---
 
