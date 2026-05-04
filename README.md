@@ -1,6 +1,6 @@
 # Python for DSA – Foundations
 
-Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python form.
+Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python form by using basics.
 
 
 -----------------
