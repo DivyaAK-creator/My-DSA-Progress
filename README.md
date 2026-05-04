@@ -1,88 +1,87 @@
 # Python for DSA – Foundations
 
-Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using Python form by using basics.
+Welcome to my journey of mastering Data Structures & Algorithms (DSA) using Python by building strong fundamentals.
 
+---
 
------------------
+## What I’m Learning
 
-##  What I’m Learning
+### Conditional Statements (if-else)
 
-###  Conditional Statements (if-else)
-of the
-Learning how programs make decisions through logical conditions:
+Learning how programs make decisions using logical conditions:
 
-* Even/Odd number checking
-* Range-based conditions
-* Logical branching and decision-making
+- Even/Odd number checking  
+- Range-based conditions  
+- Logical branching and decision-making  
 
----------
+---
 
 ### Loops
 
-####  While Loop
+#### While Loop
 
-Used when the number of iterations is **unknown**.
+Used when the number of iterations is unknown.
 
-**Practice Problems:**
+Practice Problems:
 
-*  Sum of digits of a number
-*  Armstrong number check
-*  Palindrome number check
-
----
-
-####  For Loop
-
-Used when the number of iterations is **known**.
-
-**Practice Problems:**
-
-*  Prime number check *(optimized using √n)*
-*  Counting elements in a list
+- Sum of digits of a number  
+- Armstrong number check  
+- Palindrome number check  
 
 ---
 
-##  Project Structure
+#### For Loop
 
- **Python-DSA-Basics**
- `if_else.py` → Practice for conditional statements
- `loops.py` → Loop-based problems (numbers & arrays)
+Used when the number of iterations is known.
 
----
+Practice Problems:
 
-##  Concepts Strengthened
-
-*  Iteration using `while` and `for` loops
-*  Mathematical operations (`%`, `//`, `**`)
-*  Loop control (`break`)
-*  Logical problem-solving using conditions
+- Prime number check (optimized using √n)  
+- Counting elements in a list  
 
 ---
 
-this is my first stage
-##  Practice Problems
+## Project Structure
 
-*  Sum of digits
-*  Armstrong number
-*  Palindrome check
-*  Prime number *(√n optimization)*
-*  Count elements greater than a value
-*  Find maximum and minimum
+Python-DSA-Basics
+
+- if_else.py → Practice for conditional statements  
+- loops.py → Loop-based problems (numbers & arrays)  
 
 ---
 
-## 🎯 Goals
+## Concepts Strengthened
 
-* Build **strong programming fundamentals**
-* Start DSA preparation step-by-step
-* Improve **problem-solving and logical thinking**
-* Maintain **consistent daily coding practice**
+- Iteration using while and for loops  
+- Mathematical operations (%, //, **)  
+- Loop control (break)  
+- Logical problem-solving using conditions  
 
 ---
 
-## 🌟 Motivation
+## Practice Problems
 
-> 💡 *Consistency beats intensity.*
-> 💡 *Strong basics build strong coders.*
+- Sum of digits  
+- Armstrong number  
+- Palindrome check  
+- Prime number (√n optimization)  
+- Count elements greater than a value  
+- Find maximum and minimum  
 
-✨ **Consistent practice + solid fundamentals = DSA success**
+---
+
+## Goals
+
+- Build strong programming fundamentals  
+- Start DSA preparation step by step  
+- Improve problem-solving and logical thinking  
+- Maintain consistent daily coding practice  
+
+---
+
+## Motivation
+
+"Consistency beats intensity."  
+"Strong basics build strong coders."  
+
+Consistent practice + solid fundamentals = DSA success
