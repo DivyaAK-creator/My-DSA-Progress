@@ -8,7 +8,7 @@ Welcome to my journey of mastering **Data Structures & Algorithms (DSA)** using 
 ##  What I’m Learning
 
 ###  Conditional Statements (if-else)
-
+of the
 Learning how programs make decisions through logical conditions:
 
 * Even/Odd number checking
