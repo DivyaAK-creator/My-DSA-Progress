@@ -1,8 +1,8 @@
 # Python for DSA – Foundations
 
-Welcome to my journey of mastering Data Structures & Algorithms (DSA) using Python by building strong fundamentals using the python programming.
+Welcome to my journey of mastering Data Structures & Algorithms (DSA) using Python by building strong fundamentals using the language python programming.
 
----
+-----
 
 ## What I’m Learning
 
@@ -10,9 +10,9 @@ Welcome to my journey of mastering Data Structures & Algorithms (DSA) using Pyth
 
 Learning how programs make decisions using logical conditions:
 
-- Even/Odd number checking  
-- Range-based conditions  
-- Logical branching and decision-making  
+- Even/Odd number checking.  
+- Range-based conditions.
+- Logical branching and decision-making.  
 
 ---
 
@@ -24,9 +24,9 @@ Used when the number of iterations is unknown.
 
 Practice Problems:
 
-- Sum of digits of a number  
-- Armstrong number check  
-- Palindrome number check  
+- Sum of digits of a number.  
+- Armstrong number check.
+- Palindrome number check.  
 
 ---
 
