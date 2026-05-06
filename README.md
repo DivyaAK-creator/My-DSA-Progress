@@ -14,7 +14,7 @@ Learning how programs make decisions using logical conditions:
 - Range-based conditions.
 - Logical branching and decision-making.  
 
----
+-----
 
 ### Loops
 
@@ -61,12 +61,12 @@ Python-DSA-Basics
 
 ## Practice Problems
 
-- Sum of digits  
-- Armstrong number  
-- Palindrome check  
-- Prime number (√n optimization)  
-- Count elements greater than a value  
-- Find maximum and minimum  
+- Sum of digits.  
+- Armstrong number.  
+- Palindrome check . 
+- Prime number (√n optimization).  
+- Count elements greater than a value.  
+- Find maximum and minimum.  
 
 ---
 
