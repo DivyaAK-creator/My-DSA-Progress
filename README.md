@@ -68,20 +68,25 @@ Python-DSA-Basics
 - Count elements greater than a value.  
 - Find maximum and minimum.  
 
----
+## Lists
+- •	Traversing 
+•	Indexing 
+•	Insert/Delete 
+•	Sorting 
+•	Nested lists 
 
-## Goals
+## Problem practiced
+1.	Reverse a list 
+2.	Find second largest number 
+3.	Remove duplicates from list 
+4.	Rotate list (left/right) 
+5.	Find all pairs with given sum
+6.	6.	Merge two sorted lists 
+7.	Move all zeros to end 
+8.	Find missing number in list 
+9.	Check if list is palindrome 
+10.	Flatten a nested list 
+ 
 
-- Build strong programming fundamentals  
-- Start DSA preparation step by step  
-- Improve problem-solving and logical thinking  
-- Maintain consistent daily coding practice  
-
----
-
-## Motivation
-
-"Consistency beats intensity."  
-"Strong basics build strong coders."  
 
 Consistent practice + solid fundamentals = DSA success
