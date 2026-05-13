@@ -91,8 +91,20 @@ Python-DSA-Basics
 7. Move all zeros to end  
 8. Find missing number in list  
 9. Check if list is palindrome  
-10. Flatten a nested list  
+10. Flatten a nested list
 
+## SETS 
+Focus: 
+• Unique elements  
+• Set operations  
+Problems: 
+1. Remove duplicates from list  
+2. Find intersection of two lists  
+3. Find union of two lists  
+4. Check if two lists have common elements  
+5. Find difference between two sets  
+6. Check subset/superset  
+7. Count unique words in sentence 
 ---
 
 Consistent practice + solid fundamentals = DSA success.
