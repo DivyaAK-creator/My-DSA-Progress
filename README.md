@@ -12,7 +12,7 @@ Learning how programs make decisions using logical conditions:
 
 - Even/Odd number checking  
 - Range-based conditions  
-- Logical branching and decision-making  
+- Logical branching and decision  making
 
 -----
 
