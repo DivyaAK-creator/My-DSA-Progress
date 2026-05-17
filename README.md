@@ -6,7 +6,7 @@ Welcome to my journey of mastering Data Structures & Algorithms (DSA) using Pyth
 
 ## What I’m Learning
 
-### Conditional Statements (if-else)
+
 
 Learning how programs make decisions using logical conditions:
 
