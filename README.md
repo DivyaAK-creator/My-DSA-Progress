@@ -14,8 +14,8 @@ Learning how programs make decisions using logical conditions:
 - Range-based conditions  
 - Logical branching and decision  making
 
------
-
+-------
+      
 ### Loops
 
 #### While Loop
