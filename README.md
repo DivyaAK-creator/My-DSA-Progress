@@ -28,7 +28,7 @@ Practice Problems:
 - Armstrong number check  
 - Palindrome number check  
 
----
+------
 
 #### For Loop
 
