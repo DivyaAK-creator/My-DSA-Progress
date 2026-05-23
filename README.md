@@ -107,6 +107,17 @@ Problems:
 7. Count unique words in sentence 
 ---
 
+## DICTIONARY (VERY IMPORTANT) 
+Focus: 
+• Key-value logic  
+• Fast lookup  
+Problems: 
+1. Count frequency of elements  
+2. Find first non-repeating character  
+3. Group elements by frequency  
+4. Merge two dictionaries
+---
+
 Consistent practice + solid fundamentals = DSA success.
 
 By solving problems regularly, I’m improving my analytical thinking and coding efficiency step by step.  
