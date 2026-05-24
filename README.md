@@ -2,20 +2,7 @@
 
 Welcome to my journey of mastering Data Structures & Algorithms (DSA) using Python by building strong fundamentals using the Python programming language.
 
------
-
-## What I’m Learning
-
-
-
-Learning how programs make decisions using logical conditions:
-
-- Even/Odd number checking  
-- Range-based conditions  
-- Logical branching and decision  making
-
--------
-      
+-----   
 ### Loops
 
 #### While Loop
