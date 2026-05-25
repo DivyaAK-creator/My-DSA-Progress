@@ -108,5 +108,4 @@ Problems:
 Consistent practice + solid fundamentals = DSA success.
 
 By solving problems regularly, I’m improving my analytical thinking and coding efficiency step by step.  
-This journey is helping me build confidence in writing optimized solutions and understanding core programming concepts deeply.  
 The goal is to develop strong problem-solving skills that will help in advanced DSA topics, coding interviews, and real-world programming challenges.
