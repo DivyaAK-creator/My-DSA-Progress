@@ -2,20 +2,7 @@
 
 Welcome to my journey of mastering Data Structures & Algorithms (DSA) using Python by building strong fundamentals using the Python programming language.
 
------
-
-## What I’m Learning
-
-
-
-Learning how programs make decisions using logical conditions:
-
-- Even/Odd number checking  
-- Range-based conditions  
-- Logical branching and decision  making
-
--------
-      
+-----   
 ### Loops
 
 #### While Loop
@@ -28,7 +15,7 @@ Practice Problems:
 - Armstrong number check  
 - Palindrome number check  
 
----
+------
 
 #### For Loop
 
@@ -107,8 +94,18 @@ Problems:
 7. Count unique words in sentence 
 ---
 
+## DICTIONARY (VERY IMPORTANT) 
+Focus: 
+• Key-value logic  
+• Fast lookup  
+Problems: 
+1. Count frequency of elements  
+2. Find first non-repeating character  
+3. Group elements by frequency  
+4. Merge two dictionaries
+---
+
 Consistent practice + solid fundamentals = DSA success.
 
 By solving problems regularly, I’m improving my analytical thinking and coding efficiency step by step.  
-This journey is helping me build confidence in writing optimized solutions and understanding core programming concepts deeply.  
 The goal is to develop strong problem-solving skills that will help in advanced DSA topics, coding interviews, and real-world programming challenges.
